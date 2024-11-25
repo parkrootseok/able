@@ -1,6 +1,9 @@
 # AI BLOCK EDITOR, ABLE 👨‍💻
 
-<img src="assets/able.gif" width="100%" />
+<div align=center> 
+  <img src="assets/able.gif" width="60%" />
+</div>
+
 
 ## 📅 프로젝트 정보
 
@@ -11,7 +14,7 @@
 2024.10.14(월) ~ 2024.11.19(화) [5주]
 
 <a href="https://youtu.be/ZJ3sram0qzk">
-  <img src="https://img.youtube.com/vi/ZJ3sram0qzk/0.jpg" width="250px" />
+  <img src="https://img.youtube.com/vi/ZJ3sram0qzk/0.jpg" width="30%" />
 </a>
 
 </div>
@@ -35,9 +38,18 @@ ABLE은 **처음 사용하는 사용자에게 편의성을 제공**해주기 위
 
 </br>
 
-|            사용자 가이드 조회            |
-| :--------------------------------------: |
-| <img width="720" src="assets/able_docs.gif"> |
+<div align=center>
+  <table border="1" style="border-collapse: collapse; text-align: center; width: 100%;">
+    <tr>
+      <th scope="col" align=center> 사용자 가이드 조회 </th>
+    </tr>
+    <tr>
+      <td align=center>
+        <img width="100%" src="assets/able_docs.gif">
+      </td>
+    </tr>
+  </table>
+</div>
 
 </br>
 
@@ -47,13 +59,39 @@ ABLE은 **블록을 활용한 직관적인 시각적 인터페이스**를 통해
 
 </br>
 
-|                블록 조회                 |                블록 추가                 |
-| :--------------------------------------: | :--------------------------------------: |
-| <img width="380" src="assets/preview/블록 조회.gif"> | <img width="380" src="assets/preview/블록 추가.gif"> |
+<div align=center>
+  <table border="1" style="border-collapse: collapse; text-align: center; width: 100%;">
+    <tr>
+      <th scope="col" align=center> 블록 조회 </th>
+      <th scope="col" align=center> 블록 추가 </th>
+    </tr>
+    <tr>
+      <td align=center>
+        <img width="100%" src="assets/preview/블록 조회.gif">
+      </td>
+      <td align=center>
+        <img width="100%" src="assets/preview/블록 추가.gif">
+      </td>
+    </tr>
+  </table>
+</div>
 
-|                블록 연결                 |                블록 삭제                 |
-| :--------------------------------------: | :--------------------------------------: |
-| <img width="380" src="assets/preview/블록 연결.gif"> | <img width="380" src="assets/preview/블록 삭제.gif"> |
+<div align=center>
+  <table border="1" style="border-collapse: collapse; text-align: center; width: 100%;">
+    <tr>
+      <th scope="col" align=center> 블록 연결 </th>
+      <th scope="col" align=center> 블록 삭제 </th>
+    </tr>
+    <tr>
+      <td align=center>
+        <img width="100%" src="assets/preview/블록 연결.gif">
+      </td>
+      <td align=center>
+        <img width="100%" src="assets/preview/블록 삭제.gif">
+      </td>
+    </tr>
+  </table>
+</div>
 
 </br>
 
@@ -63,9 +101,22 @@ ABLE은 유효성 검증 기능을 통해 **블록 코딩 작업의 안정성을
 
 </br>
 
-|                연결성 확인                 |                 순환 생성 방지                 |
-| :----------------------------------------: | :--------------------------------------------: |
-| <img width="380" src="assets/preview/연결성 확인.gif"> | <img width="380" src="assets/preview/순환 생성 방지.gif"> |
+<div align=center>
+  <table border="1" style="border-collapse: collapse; text-align: center; width: 100%;">
+    <tr>
+      <th scope="col" align=center> 연결성 확인 </th>
+      <th scope="col" align=center> 순환 생성 방지 </th>
+    </tr>
+    <tr>
+      <td align=center>
+        <img width="100%" src="assets/preview/연결성 확인.gif">
+      </td>
+      <td align=center>
+        <img width="100%" src="assets/preview/순환 생성 방지.gif">
+      </td>
+    </tr>
+  </table>
+</div>
 
 </br>
 
@@ -84,9 +135,18 @@ ABLE은 사용자가 생성한 블록 모델을 통해 **효율적인 자동화 
 
   </br>
 
-| 학습 시작 및 결과 조회 |
-| :-------------------: |
-| <img width=100% src="assets/train.gif"> |
+<div align=center>
+  <table border="1" style="border-collapse: collapse; text-align: center; width: 100%;">
+    <tr>
+      <th scope="col" align=center> 학습 시작 및 결과 조회 </th>
+    </tr>
+    <tr>
+      <td align=center>
+        <img width="800" src="assets/train.gif">
+      </td>
+    </tr>
+  </table>
+</div>
 
   </br>
 
@@ -103,8 +163,7 @@ ABLE은 사용자가 학습을 완료한 **딥러닝 모델을 직관적이고 �
 - 히트맵 분석
   - 마지막 활성화 함수 블록에서는 히트맵 시각화를 통해 이미지의 특정 영역이 모델의 분류 결정에 어떻게 기여했는지 명확히 확인할 수 있습니다.
 
-
-  </br>
+</br>
 
 <div align=center>
   <table border="1" style="border-collapse: collapse; text-align: center; width: 100%;">
@@ -113,17 +172,13 @@ ABLE은 사용자가 학습을 완료한 **딥러닝 모델을 직관적이고 �
     </tr>
     <tr>
       <td align=center>
-        <img width="720" src="assets/analysis.gif">
+        <img width="800" src="assets/analysis.gif">
       </td>
     </tr>
   </table>
 </div>
 
-| 분석 시작 및 결과 조회 |
-| :------------------: |
-| <img width="720" src="assets/analysis.gif"> |
-
-  </br>
+</br>
 
 ### 🚀 모델 배포
 ABLE은 **버튼 클릭만으로 FastAPI 프레임워크 기반의 서버를 실행**하고, **실시간 로그 확인 기능**을 제공합니다. 또한, 사용자가 생성한 모델을 API로 생성하여 **모델 배포 및 활용을 손쉽게 지원**합니다.
@@ -133,13 +188,40 @@ ABLE은 **버튼 클릭만으로 FastAPI 프레임워크 기반의 서버를 실
 
   </br>
 
-| 서버 시작 | API 추가 및 목록 조회 |
-| :---: | :---: |
-| <img width="380" src="assets/start-server.gif"> | <img width="380" src="assets/add-search-api.gif"> | 
+<div align=center>
+  <table border="1" style="border-collapse: collapse; text-align: center; width: 100%;">
+    <tr>
+      <th scope="col" align=center> 서버 시작 </th>
+      <th scope="col" align=center> API 추가 및 목록 조회 </th>
+    </tr>
+    <tr>
+      <td align=center>
+        <img width="100%" src="assets/start-server.gif">
+      </td>
+      <td align=center>
+        <img width="100%" src="assets/add-search-api.gif">
+      </td>
+    </tr>
+  </table>
+</div>
 
-| API 테스트 | API 삭제 및 서버 종료 |
-| :---: | :---: |
-| <img width="380" src="assets/test-api.gif"> | <img width="380" src="assets/delete-api.gif">
+<div align=center>
+  <table border="1" style="border-collapse: collapse; text-align: center; width: 100%;">
+    <tr>
+      <th scope="col" align=center> API 테스트 </th>
+      <th scope="col" align=center> API 삭제 및 서버 종료 </th>
+    </tr>
+    <tr>
+      <td align=center>
+        <img width="100%" src="assets/test-api.gif">
+      </td>
+      <td align=center>
+        <img width="100%" src="assets/delete-api.gif">
+      </td>
+    </tr>
+  </table>
+</div>
+
 </br>
 
 ## ⚒️ 기술 스택
