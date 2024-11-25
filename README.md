@@ -45,7 +45,7 @@ ABLE은 **처음 사용하는 사용자에게 편의성을 제공**해주기 위
     </tr>
     <tr>
       <td align=center>
-        <img width="100%" src="assets/able_docs.gif">
+        <img width="700" src="assets/able_docs.gif">
       </td>
     </tr>
   </table>
@@ -142,7 +142,7 @@ ABLE은 사용자가 생성한 블록 모델을 통해 **효율적인 자동화 
     </tr>
     <tr>
       <td align=center>
-        <img width="800" src="assets/train.gif">
+        <img width="700" src="assets/train.gif">
       </td>
     </tr>
   </table>
@@ -172,7 +172,7 @@ ABLE은 사용자가 학습을 완료한 **딥러닝 모델을 직관적이고 �
     </tr>
     <tr>
       <td align=center>
-        <img width="800" src="assets/analysis.gif">
+        <img width="700" src="assets/analysis.gif">
       </td>
     </tr>
   </table>
