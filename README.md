@@ -86,7 +86,7 @@ ABLE은 사용자가 생성한 블록 모델을 통해 **효율적인 자동화 
 
 | 학습 시작 및 결과 조회 |
 | :-------------------: |
-| <img width="720" src="assets/train.gif"> |
+| <img width=100% src="assets/train.gif"> |
 
   </br>
 
