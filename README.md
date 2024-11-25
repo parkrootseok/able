@@ -106,6 +106,19 @@ ABLE은 사용자가 학습을 완료한 **딥러닝 모델을 직관적이고 �
 
   </br>
 
+<div align=center>
+  <table border="1" style="border-collapse: collapse; text-align: center; width: 100%;">
+    <tr>
+      <th scope="col" align=center> 분석 시작 및 결과 조회 </th>
+    </tr>
+    <tr>
+      <td align=center>
+        <img width="720" src="assets/analysis.gif">
+      </td>
+    </tr>
+  </table>
+</div>
+
 | 분석 시작 및 결과 조회 |
 | :------------------: |
 | <img width="720" src="assets/analysis.gif"> |
