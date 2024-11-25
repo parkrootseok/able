@@ -37,7 +37,7 @@ ABLE은 **처음 사용하는 사용자에게 편의성을 제공**해주기 위
 
 |            사용자 가이드 조회            |
 | :--------------------------------------: |
-| <img width="800" src="assets/able_docs.gif"> |
+| <img width="720" src="assets/able_docs.gif"> |
 
 </br>
 
@@ -86,7 +86,7 @@ ABLE은 사용자가 생성한 블록 모델을 통해 **효율적인 자동화 
 
 | 학습 시작 및 결과 조회 |
 | :-------------------: |
-| <img width="800" src="assets/train.gif"> |
+| <img width="720" src="assets/train.gif"> |
 
   </br>
 
@@ -108,7 +108,7 @@ ABLE은 사용자가 학습을 완료한 **딥러닝 모델을 직관적이고 �
 
 | 분석 시작 및 결과 조회 |
 | :------------------: |
-| <img width="800" src="assets/analysis.gif"> |
+| <img width="720" src="assets/analysis.gif"> |
 
   </br>
 
