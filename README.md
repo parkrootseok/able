@@ -4,22 +4,6 @@
   <img src="assets/able.gif" width="60%" />
 </div>
 
-
-## 📅 프로젝트 정보
-
-<div align=center>
-
-### SSAFY 11기 2학기 자율 프로젝트
-
-2024.10.14(월) ~ 2024.11.19(화) [5주]
-
-<a href="https://youtu.be/ZJ3sram0qzk">
-  <img src="https://img.youtube.com/vi/ZJ3sram0qzk/0.jpg" width="30%" />
-</a>
-
-</div>
-</br>
-
 ## 📖 주제
 
 **블록 코딩** 방식의 **AI 모델** 개발 소프트웨어
@@ -39,19 +23,8 @@ ABLE은 **처음 사용하는 사용자에게 편의성을 제공**해주기 위
 </br>
 
 <div align=center>
-  <table border="1" style="border-collapse: collapse; text-align: center; width: 100%;">
-    <tr>
-      <th scope="col" align=center> 사용자 가이드 조회 </th>
-    </tr>
-    <tr>
-      <td align=center>
-        <img width="700" src="assets/able_docs.gif">
-      </td>
-    </tr>
-  </table>
+  <img width="70%" style="border-collapse: collapse; text-align: center; width: 100%;" src="assets/able_docs.gif">
 </div>
-
-</br>
 
 ### 🧩 블록 코딩
 
@@ -136,16 +109,7 @@ ABLE은 사용자가 생성한 블록 모델을 통해 **효율적인 자동화 
   </br>
 
 <div align=center>
-  <table border="1" style="border-collapse: collapse; text-align: center; width: 100%;">
-    <tr>
-      <th scope="col" align=center> 학습 시작 및 결과 조회 </th>
-    </tr>
-    <tr>
-      <td align=center>
-        <img width="700" src="assets/train.gif">
-      </td>
-    </tr>
-  </table>
+  <img width="70%" src="assets/able_docs.gif"">
 </div>
 
   </br>
@@ -166,16 +130,7 @@ ABLE은 사용자가 학습을 완료한 **딥러닝 모델을 직관적이고 �
 </br>
 
 <div align=center>
-  <table border="1" style="border-collapse: collapse; text-align: center; width: 100%;">
-    <tr>
-      <th scope="col" align=center> 분석 시작 및 결과 조회 </th>
-    </tr>
-    <tr>
-      <td align=center>
-        <img width="700" src="assets/analysis.gif">
-      </td>
-    </tr>
-  </table>
+  <img width="70%" src="assets/analysis.gif">
 </div>
 
 </br>
