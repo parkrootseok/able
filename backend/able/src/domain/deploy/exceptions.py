@@ -1,5 +1,5 @@
 from starlette import status
-from src.exceptions import BaseCustomException
+from src.common.exceptions import BaseCustomException
 
 # 메타데이터 파일 생성 실패 시 예외 (500 Internal Server Error)
 class MetadataCreationException(BaseCustomException):

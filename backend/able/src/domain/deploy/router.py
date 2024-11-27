@@ -5,8 +5,8 @@ from src.domain.deploy.schema.response import StopApiResponse, RegisterApiRespon
     GetApisResponse, DeployInfoResponse
 from src.domain.deploy.service import DeployService
 from src.domain.deploy.schema.request import RegisterApiRequest
-from src.response.utils import accepted, ok, no_content, bad_request
-from src.response.schemas import ResponseModel
+from src.common.utils.response.utils import accepted, ok, no_content, bad_request
+from src.common.utils.response.schemas import ResponseModel
 
 deploy_router = router = APIRouter()
 
