@@ -1,4 +1,4 @@
-from src.response.schemas import ImmutableBaseModel
+from src.common.utils.response.schemas import ImmutableBaseModel
 from src.domain.deploy.schema.dto import ApiInformation
 
 class RegisterApiResponse(ImmutableBaseModel):

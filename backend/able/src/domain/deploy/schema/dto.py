@@ -1,5 +1,5 @@
 from src.domain.deploy.enums import ApiStatus
-from src.response.schemas import ImmutableBaseModel
+from src.common.utils.response.schemas import ImmutableBaseModel
 
 class ApiInformation(ImmutableBaseModel):
     project_name: str

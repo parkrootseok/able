@@ -14,14 +14,14 @@ import io
 from PIL import Image
 from fastapi import APIRouter, UploadFile, File
 from deploy_server.src.schemas import InferenceResponse
-from src.file.path_manager import PathManager
-from src.file.utils import get_file
-from src.file.constants import METADATA, MODEL
-from src.response.utils import ok
-from src.train.schemas import TrainResultMetadata
-from src.utils import str_to_json
+from src.common.utils.file.path_manager import PathManager
+from src.common.utils.file.utils import get_file
+from src.common.utils.file.constants import METADATA, MODEL
+from src.common.utils.response.utils import ok
+from src.domain.train.schemas import TrainResultMetadata
+from src.common.utils import str_to_json
 
-from src.train.utils import load_transform_pipeline
+from src.domain.train.utils import load_transform_pipeline
 
 router = APIRouter()
 path_manager = PathManager()

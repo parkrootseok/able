@@ -1,4 +1,4 @@
-from src.response.schemas import ImmutableBaseModel
+from src.common.utils.response.schemas import ImmutableBaseModel
 
 class RegisterApiRequest(ImmutableBaseModel):
     project_name: str

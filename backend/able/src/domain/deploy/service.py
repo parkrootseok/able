@@ -18,7 +18,7 @@ from src.domain.deploy.exceptions import (
     FileDeletionException
 )
 from src.domain.deploy.utils import *
-from src.utils import logger
+from src.common.utils import logger
 
 class DeployService:
 
